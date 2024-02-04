@@ -1,0 +1,22 @@
+{
+  "item.angelring.angel_ring": "天使戒指",
+  "item.angelring.diamond_ring": "鑽石戒指",
+  "item.angelring.angel_ring.not_enough_xp": "你需要有XP才能飛行，獲取更多XP以再次飛行。",
+  "item.angelring.angel_ring.tooltip": "按住 §eShift§7 以獲取更多訊息！",
+  "item.angelring.angel_ring.desc0": "天使戒指在飛行時會隨著時間的推移消耗玩家的 XP。",
+  "item.angelring.angel_ring.desc1": "如果玩家的XP低於1級，",
+  "item.angelring.angel_ring.desc2": "魔法將消失，無法飛行。",
+  "item.angelring.angel_ring.classic.desc0": "天使戒指切換到經典模式。放在 Curios 插槽中以獲得創造飛行。",
+  "item.angelring.angel_ring.classic.desc1": "將配置中的XP消耗切換到超過0點以切換到重新平衡模式。",
+  "item.angelring.energetic_angel_ring": "活力天使戒指",
+  "item.angelring.energetic_angel_ring.not_enough_fe": "你需要更多的FE才能飛。為你的天使戒指充電以再次飛行。",
+  "item.angelring.energetic_angel_ring.tooltip": "按住 §eShift§7 以獲取更多訊息！",
+  "item.angelring.energetic_angel_ring.desc0": "天使戒指在飛行時會隨著時間的推移耗盡存儲的 FE。",
+  "item.angelring.energetic_angel_ring.desc1": "天使戒指目前包含 %s FE / %s FE。",
+  "item.angelring.leadstone_angel_ring": "鉛石天使戒指",
+  "item.angelring.hardened_angel_ring": "硬化天使戒指",
+  "item.angelring.reinforced_angel_ring": "強化天使戒指",
+  "item.angelring.resonant_angel_ring": "共振天使戒指",
+  "curios.identifier.angelring": "天使戒指",
+  "itemGroup.angelring2": "天使戒指 2"
+}
