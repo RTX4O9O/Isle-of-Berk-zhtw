@@ -1,23 +1,23 @@
 __3dskinlayers__
 from RPMTW
 __AgeOfWeapons-Reforged__
-yet
-alexsdelight
-
-alexsmobs
-
-AngelRing2
-
-another_furniture
-
-appleskin
-
-Aquaculture
-
-architectury
-
-ars_elemental
-
+by RTX4090 & Redth & Kolin
+__alexsdelight__
+by RTX4090
+__alexsmobs__
+from RPMTW
+__AngelRing2__
+by RTX4090
+__another_furniture__
+by RTX4090
+__appleskin__
+from RPMTW
+__Aquaculture__
+zh_tw already provided
+__architectury__
+no lang files
+__ars_elemental__
+by RTX4090 & JianYuan & uikuai & Zengz
 ars_nouveau
 
 AutoRegLib
@@ -101,7 +101,8 @@ HTTYDPainting-1.18.2.0.2.jar
 immersive_armors-1.5.6+1.18.2-forge.jar
 inventorysorter-1.18-19.0.0.jar
 ironchest-1.18.2-13.2.11.jar
-Isle of Berk - 1.1.0.jar
+__Isle of Berk__
+by RTX4090
 Jade-1.18.2-forge-5.3.0.jar
 jei-1.18.2-9.7.2.277.jar
 JEIEnchantmentInfo-1.17.1-2.0.0.jar
