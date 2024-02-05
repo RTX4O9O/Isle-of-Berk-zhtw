@@ -1,0 +1,22 @@
+{
+  "attribute.name.generic.attack_range": "攻擊範圍",
+  "item.modifiers.two_handed": "雙手武器",
+  "keybinds.bettercombat.feint": "賣個破綻",
+  "keybinds.bettercombat.toggle_mine_with_weapons": "切換使用武器進行采礦的能力",
+  "text.autoconfig.bettercombat.option.client.isHoldToAttackEnabled": "按住按鈕進行攻擊",
+  "text.autoconfig.bettercombat.option.client.isHoldToAttackEnabled.@Tooltip": "按住攻擊鍵自動攻擊",
+  "text.autoconfig.bettercombat.option.client.isMiningWithWeaponsEnabled": "進行采礦武器",
+  "text.autoconfig.bettercombat.option.client.isMiningWithWeaponsEnabled.@Tooltip": "允許使用武器開采方塊",
+  "text.autoconfig.bettercombat.option.client.isSwingThruGrassEnabled": "在草叢中揮舞武器",
+  "text.autoconfig.bettercombat.option.client.isSwingThruGrassEnabled.@Tooltip": "攻擊而不是用武器挖掘零硬度塊",
+  "text.autoconfig.bettercombat.option.client.isHighlightCrosshairEnabled": "凸顯十字線",
+  "text.autoconfig.bettercombat.option.client.isHighlightCrosshairEnabled.@Tooltip": "如果敵人足夠近可以攻擊，凸顯示十字線。\n警告！ 啟用此功能可能會顯著降低幀速率。",
+  "text.autoconfig.bettercombat.option.client.hudHighlightColor": "凸顯顏色",
+  "text.autoconfig.bettercombat.option.client.hudHighlightColor.@Tooltip": "應用於 HUD 元素的顏色（如果需要）",
+  "text.autoconfig.bettercombat.option.client.isShowingArmsInFirstPerson": "以第一人稱視角顯示手臂",
+  "text.autoconfig.bettercombat.option.client.isShowingArmsInFirstPerson.@Tooltip": "為在第一人稱視圖中播放的攻擊動畫渲染手臂",
+  "text.autoconfig.bettercombat.option.client.isSmoothAnimationTransitionEnabled": "平整動畫過渡",
+  "text.autoconfig.bettercombat.option.client.isSmoothAnimationTransitionEnabled.@Tooltip": "以犧牲動畫保真度為代價來平滑攻擊動畫過渡",
+  "text.autoconfig.bettercombat.option.client.isTooltipAttackRangeEnabled": "項目工具提示: 攻擊範圍",
+  "text.autoconfig.bettercombat.option.client.isTooltipAttackRangeEnabled.@Tooltip": "在武器工具提示上顯示攻擊範圍屬性"
+}
