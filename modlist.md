@@ -18,36 +18,36 @@ __architectury__
 no lang files
 __ars_elemental__
 by RTX4090 & JianYuan & uikuai & Zengz
-ars_nouveau
+__ars_nouveau__
 zh_tw already provided
 __AutoRegLib__
 by RTX4090
-balm
-
-betterbiomeblend
-
-bettercombat
-
-BetterEnderMod
-
-bettervillage
-
-BiomesOPlenty
-
-BloodMagic
-
-Bookshelf
-
-Botania
-
-BotanyPots
-
-bygonenether
-
-caelus
-
-carryon
-
+__balm__
+no lang files
+__betterbiomeblend__
+by RTX4090
+__bettercombat__
+by RTX4090
+__BetterEnderMod__
+by RTX4090
+__bettervillage__
+no lang files
+__BiomesOPlenty__
+zh_tw already provided
+__BloodMagic__
+from RPMTW
+__Bookshelf__
+zh_tw already provided
+__Botania__
+zh_tw already provided
+__BotanyPots__
+from RPMTW
+__bygonenether__
+by RTX4090
+__caelus__
+by RTX4090
+__carryon__
+byRTX4090
 citadel
 
 cloth-config
@@ -152,6 +152,7 @@ sophisticatedcore-1.18.2-0.5.81.384.jar
 starlight-1.0.2+forge.546ae87.jar
 StorageDrawers-1.18.2-10.2.1.jar
 supplementaries-1.18.2-1.5.18.jar
+teleportcraft-1.1.1-1.18.2
 TerraBlender-forge-1.18.2-1.2.0.126.jar
 toomanyglyphs-1.18.1-2.0.7.15321.jar
 torchmaster-18.2.1.jar
@@ -161,4 +162,4 @@ upgradedcore-1.18.2-3.3.0.0-release.jar
 upgradednetherite-1.18.2-4.3.0.1-release.jar
 VisualWorkbench-v3.3.0-1.18.2-Forge.jar
 waystones-forge-1.18.2-10.2.1.jar
-XaerosWorldMap_1.31.0_Forge_1.18.2.jar
+
