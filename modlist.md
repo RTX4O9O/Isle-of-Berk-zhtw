@@ -19,9 +19,9 @@ no lang files
 __ars_elemental__
 by RTX4090 & JianYuan & uikuai & Zengz
 ars_nouveau
-
-AutoRegLib
-
+zh_tw already provided
+__AutoRegLib__
+by RTX4090
 balm
 
 betterbiomeblend
